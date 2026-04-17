@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Khalid Bin Masud 👋
 
-<!--
-**Khalid635/Khalid635** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student at Presidency University  
+📍 Bangladesh  
+🌱 Currently learning Software Development  
 
-Here are some ideas to get you started:
+## 🏆 Certifications
+- Google Ads AI-Powered Performance Certified
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Projects
+- 🎓 [Student Management System](https://github.com/Khalid635/Student-Management-System) — Python
+- 🎬 [Movie Ticket Show System](https://github.com/Khalid635/Movie-Ticket-Show-System) — Python
+
+## 🛠️ Skills
+![Google Ads](https://skillshop.credential.net/40fe7487-d1ee-4d01-9efd-d6c9d5bdbac1#acc.eEzJcju5)
+
+## 📫 Connect with me
+[![LinkedIn](https://www.linkedin.com/in/khalid-bin-masud-817a913b9/)
