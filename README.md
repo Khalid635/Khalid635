@@ -1,275 +1,151 @@
 <div align="center">
 
-# KHALID BIN MASUD
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,18&height=190&section=header&text=Khalid%20Bin%20Masud&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20AI%2FML%20%C2%B7%20Full-Stack&descAlignY=60&descSize=18" alt="header" width="100%"/>
 
-### Software Developer · AI/ML · Full-Stack
-
-Computer Science & Engineering Student @ Presidency University
-
-<br/>
-
-<a href="https://khalidbinmasud-portfolio.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/khalid-bin-masud-817a913b9/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
 <a href="https://github.com/Khalid635">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=CSE+student+at+Presidency+University;Building+REST+APIs+and+full-stack+applications;Practicing+DSA+and+problem+solving;Working+toward+AI%2FML+engineering" alt="typing" />
 </a>
 
-<br/><br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,16,18&height=2&section=header" width="70%" />
+<a href="https://khalidbinmasud-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/khalid-bin-masud-817a913b9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Khalid635?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
-
-<br/>
-
-## `01` — WHO I AM
-
-I'm **Khalid Bin Masud**, a Computer Science & Engineering student focused on building software and developing a strong foundation in Artificial Intelligence and Machine Learning.
-
-My development journey combines:
-
-**Software Engineering** · **Backend Development** · **AI/ML** · **Full-Stack Development** · **Data Structures & Algorithms**
-
-I like building things that move beyond tutorials — APIs, full-stack applications, database-driven systems, and eventually intelligent applications powered by machine learning.
-
-<br/>
-
-<div align="center">
-
-> **Learn deeply. Build practically. Improve continuously.**
-
-</div>
-
-<br/>
 
 ---
 
-## `02` — WHAT I BUILD
+## `01` About
+
+I'm a Computer Science & Engineering student at **Presidency University** (B.Sc., 2025–2029), based in Dhaka, Bangladesh.
+
+I build backend APIs and full-stack applications, practice data structures and algorithms, and am growing my foundation in **machine learning**. I prefer building real things over following tutorials.
+
+> **Learn deeply. Build practically. Improve continuously.**
+
+| | |
+|---|---|
+| **Backend** | REST APIs, authentication, database design |
+| **Full-Stack** | React frontends connected to FastAPI backends |
+| **Problem Solving** | DSA and competitive programming in C++ and Python |
+| **AI / ML** | Python, math and statistics, data analysis, ML foundations |
+
+---
+
+## `02` Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### AI / MACHINE LEARNING
+### Swift Logistics
+**Parcel booking and tracking platform**
 
-Exploring the foundations of machine learning and building toward intelligent applications.
+Full-stack app with JWT authentication, admin approval for new users, parcel management and a public tracking page.
 
-`Python`  
-`Machine Learning`  
-`Data Analysis`  
-`Deep Learning`
+`React` `FastAPI` `PostgreSQL` `SQLAlchemy` `JWT`
+
+[Frontend](https://github.com/Khalid635/swift-logistics-frontend) · [Backend](https://github.com/Khalid635/swift-logistics-backend) · [Live Demo](https://swift-logistics-frontend.vercel.app/)
 
 </td>
-
 <td width="50%" valign="top">
 
-### SOFTWARE ENGINEERING
+### Expense Tracker API
+**REST API for personal finance**
 
-Building practical applications with clean backend architecture, APIs, databases and authentication.
+JWT authentication, transaction CRUD, and filtering by type, category, amount and date range.
 
-`Python`  
-`FastAPI`  
-`REST APIs`  
-`PostgreSQL`
+`Python` `FastAPI` `Pydantic` `SQLAlchemy`
+
+[View Repository](https://github.com/Khalid635/expense-tracker-api)
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### FULL-STACK DEVELOPMENT
+### Movie Collection API
+**CRUD-focused REST API**
 
-Turning ideas into complete web applications with frontend, backend and database layers.
+Backend project built to practice REST design and data management.
 
-`React`  
-`JavaScript`  
-`FastAPI`  
-`PostgreSQL`
+`Python` `REST API`
+
+[View Repository](https://github.com/Khalid635/Movie-Collection-API)
 
 </td>
-
 <td width="50%" valign="top">
 
-### PROBLEM SOLVING
+### CocktailHub
+**E-commerce web application**
 
-Strengthening algorithmic thinking through Data Structures, Algorithms and competitive programming.
+Product browsing, search, cart, checkout and order confirmation.
 
-`C`  
-`C++`  
-`Python`  
-`DSA`
+`HTML` `CSS` `JavaScript` `Bootstrap`
+
+[View Repository](https://github.com/Khalid635/cocktailhub)
 
 </td>
 </tr>
 </table>
 
-<br/>
+More: [Student Management System](https://github.com/Khalid635/Student-Management-System) · [Movie Ticket Show System](https://github.com/Khalid635/Movie-Ticket-Show-System)
 
 ---
 
-## `03` — TECHNOLOGY
+## `03` Tech Stack
 
-### Languages
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" />
-</p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=react,bootstrap,fastapi,postgres,mysql&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" /><br/><br/>
 
-### AI / ML
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-`Machine Learning` · `Data Analysis` · `Deep Learning`
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
-</p>
-
-### Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,sqlite" />
-</p>
-
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render" />
-</p>
-
-<br/>
+</div>
 
 ---
 
-## `04` — FEATURED WORK
+## `04` AI / ML Direction
 
-### 🚚 Swift Logistics
-
-**Full-Stack Parcel Booking & Tracking Platform**
-
-A complete parcel management system designed around real-world booking, tracking and administrative workflows.
-
-**Architecture**
-
-`React` → `FastAPI` → `PostgreSQL`
-
-**Built with**
-
-`React` `FastAPI` `SQLAlchemy` `PostgreSQL` `JWT`
-
-**Key Features**
-
-- User authentication
-- Parcel booking and management
-- Public parcel tracking
-- Admin approval workflow
-- REST API
-- Database integration
-- Separate frontend and backend deployment
-
-**Project**
-
-[Frontend Repository](https://github.com/Khalid635/swift-logistics-frontend) ·
-[Backend Repository](https://github.com/Khalid635/swift-logistics-backend) ·
-[Live Application](https://swift-logistics-frontend.vercel.app/)
-
-<br/>
-
----
-
-### 💰 Expense Tracker API
-
-**Backend API for Personal Expense Management**
-
-A database-driven REST API built with FastAPI for managing financial transactions.
-
-**Architecture**
-
-`FastAPI` → `SQLAlchemy` → `PostgreSQL`
-
-**Features**
-
-- JWT authentication
-- Transaction CRUD
-- Category filtering
-- Type filtering
-- Amount filtering
-- Date-range filtering
-
-**Stack**
-
-`Python` `FastAPI` `Pydantic` `SQLAlchemy` `PostgreSQL`
-
-[View Repository →](https://github.com/Khalid635/expense-tracker-api)
-
-<br/>
-
----
-
-### 🎬 Movie Collection API
-
-**REST API for Movie Management**
-
-A lightweight backend project focused on CRUD operations and REST API fundamentals.
-
-**Stack**
-
-`Python` · `REST API`
-
-[View Repository →](https://github.com/Khalid635/Movie-Collection-API)
-
-<br/>
-
----
-
-### 🍸 CocktailHub
-
-**E-Commerce Web Application**
-
-A responsive web application for browsing products and managing a shopping workflow.
-
-**Features**
-
-`Product Discovery` · `Search` · `Cart` · `Checkout`
-
-**Stack**
-
-`HTML` `CSS` `JavaScript` `Bootstrap`
-
-[View Repository →](https://github.com/Khalid635/cocktailhub)
-
-<br/>
-
----
-
-## `05` — AI / ML
-
-### From Software Engineering to Intelligent Systems
-
-I'm expanding my software development foundation into **Artificial Intelligence and Machine Learning**.
-
-My AI/ML path is structured around:
+Building toward AI/ML engineering through structured study and practical projects.
 
 ```text
-Python
-   │
-   ├── Mathematics & Statistics
-   │
-   ├── Data Analysis
-   │
-   ├── Machine Learning
-   │
-   ├── Deep Learning
-   │
-   └── Intelligent Applications
+Python ─► Math & Statistics ─► Data Analysis ─► Machine Learning ─► Deep Learning ─► Intelligent Applications
+```
+
+My goal is to combine solid software engineering with machine learning, so models end up inside real, usable systems and not only in notebooks.
+
+---
+
+## `05` GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Khalid635&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khalid635&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Khalid635&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Khalid635/Khalid635/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+
+</div>
+
+---
+
+<div align="center">
+
+**Open to internships, collaboration and feedback on my projects.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,18&height=110&section=footer" width="100%"/>
+
+</div>
