@@ -1,279 +1,486 @@
-<!-- ===================== HEADER ===================== --><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Khalid%20Bin%20Masud&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=CSE%20Student%20%7C%20Aspiring%20Software%20Developer&descAlignY=58&descSize=18" width="100%"/>
-</p><p align="center">
+<!-- ╔══════════════════════════════════════════════════════════════╗
+     ║                  KHALID BIN MASUD                          ║
+     ║        Software Developer • AI/ML • Full-Stack            ║
+     ╚══════════════════════════════════════════════════════════════╝ -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:2563EB&height=230&section=header&text=Khalid%20Bin%20Masud&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%2FML%20%7C%20Full-Stack&descAlignY=60&descSize=18&animation=fadeIn"
+    width="100%"
+  />
+</p>
+
+<p align="center">
   <a href="https://github.com/Khalid635">
     <img src="https://komarev.com/ghpvc/?username=Khalid635&label=Profile%20Views&color=2563EB&style=flat-square" />
   </a>
-</p><p align="center">
-  <a href="https://www.linkedin.com/in/khalid-bin-masud-817a913b9/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/github/followers/Khalid635?label=Followers&style=flat-square&color=2563EB" />
+  <img src="https://img.shields.io/github/stars/Khalid635?label=Stars&style=flat-square&color=F59E0B" />
+</p>
+
+<p align="center">
   <a href="https://khalidbinmasud-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/khalid-bin-masud-817a913b9/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Khalid635">
-    <img src="https://img.shields.io/badge/GitHub-Khalid635-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Khalid635-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>---
+</p>
 
-👋 About Me
+<br>
 
-I'm Khalid Bin Masud — a Computer Science & Engineering student
-focused on becoming a strong software developer.
+<h2 align="center">Building software with a path toward intelligent systems.</h2>
 
-I enjoy building practical applications, designing REST APIs,
-working with databases, and improving my problem-solving skills
-through Data Structures & Algorithms.
+<p align="center">
+  I’m a Computer Science & Engineering student focused on
+  <b>software development, backend engineering, AI/ML and problem solving.</b>
+</p>
 
-Currently learning → Backend Development → Full-Stack Development
-
-🎓 CSE Student at Presidency University
-💻 Aspiring Software Developer
-🧠 DSA & Problem Solving
-⚙️ Backend & REST API Development
-🚀 Full-Stack Web Development
+<p align="center">
+  <code>Build</code>
+  →
+  <code>Learn</code>
+  →
+  <code>Experiment</code>
+  →
+  <code>Improve</code>
+</p>
 
 ---
 
-⚡ What I'm Working On
+## 👨‍💻 About Me
+
+I’m **Khalid Bin Masud**, a Computer Science & Engineering student at **Presidency University**.
+
+My development journey started with programming fundamentals and problem solving, and has grown toward building complete software systems.
+
+I’m particularly interested in the intersection of:
+
+* 🤖 **Artificial Intelligence & Machine Learning**
+* ⚙️ **Backend & API Engineering**
+* 🌐 **Full-Stack Development**
+* 🧠 **Data Structures & Algorithms**
+* 🗄️ **Databases & Software Architecture**
+
+I enjoy taking an idea, breaking it into smaller problems, and turning it into a working application.
+
+---
+
+# 🧭 Engineering Direction
+
+<p align="center">
+
+`Programming`
+
+ → 
+
+`DSA`
+
+ → 
+
+`Software Engineering`
+
+ → 
+
+`Backend`
+
+ → 
+
+`AI / ML`
+
+ → 
+
+`Intelligent Applications`
+
+</p>
+
+My long-term direction is to combine **strong software engineering fundamentals with AI/ML** and build useful, reliable applications.
+
+---
+
+# 🛠️ Technical Stack
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js&perline=8" />
+</p>
+
+### 🧠 AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python&perline=8" />
+</p>
+
+`Machine Learning` · `Deep Learning` · `Data Analysis` · `Model Development`
+
+> My AI/ML stack will continue to grow as I progress through my AI/ML training and projects.
+
+### 🌐 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap&perline=8" />
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi&perline=8" />
+</p>
+
+`REST APIs` · `Authentication` · `CRUD` · `API Design`
+
+### 🗄️ Databases & ORM
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql&perline=8" />
+</p>
+
+`PostgreSQL` · `MySQL` · `SQLAlchemy`
+
+### 🔧 Tools & Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render&perline=8" />
+</p>
+
+---
+
+# 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">🧠 Problem Solving
+<td width="50%" valign="top">
 
-Improving my programming logic and algorithmic thinking through DSA and competitive programming.
+### 🚚 Swift Logistics
+
+**Full-Stack Parcel Management & Tracking Platform**
+
+A complete parcel booking and delivery-tracking system with a separate frontend and backend.
+
+**Core Features**
+
+* 🔐 Authentication & authorization
+* 📦 Parcel booking & management
+* 🔎 Public parcel tracking
+* 👨‍💼 Admin approval workflow
+* 🔄 REST API
+* 🗄️ PostgreSQL database
+* 🌐 Frontend & backend deployment
+
+**Stack**
+
+`React` `FastAPI` `PostgreSQL` `SQLAlchemy` `JWT`
+
+<br>
+
+<a href="https://github.com/Khalid635/swift-logistics-frontend">Frontend →</a>
+ •  <a href="https://github.com/Khalid635/swift-logistics-backend">Backend →</a>
+ •  <a href="https://swift-logistics-frontend.vercel.app/">Live Demo →</a>
 
 </td>
-<td width="50%">⚙️ Backend Development
 
-Building REST APIs with Python, FastAPI, databases, authentication and real-world workflows.
+<td width="50%" valign="top">
 
-</td>
-</tr><tr>
-<td width="50%">🌐 Full-Stack Development
+### 💰 Expense Tracker API
 
-Connecting modern frontend applications with scalable backend services and databases.
+**REST API for Personal Expense Management**
 
-</td>
-<td width="50%">📚 Continuous Learning
+A backend application designed around structured expense management and API-based workflows.
 
-Learning new technologies while improving code quality, Git workflow and software development practices.
+**Core Features**
+
+* 🔐 JWT authentication
+* ➕ Create transactions
+* ✏️ Update transactions
+* 🗑️ Delete transactions
+* 🔎 Advanced filtering
+* 📅 Date-range filtering
+* 🏷️ Category & type filtering
+
+**Stack**
+
+`Python` `FastAPI` `SQLAlchemy` `Pydantic` `PostgreSQL`
+
+<br>
+
+<a href="https://github.com/Khalid635/expense-tracker-api">Repository →</a>
 
 </td>
 </tr>
-</table>---
 
-🛠️ Tech Stack
+<tr>
+<td width="50%" valign="top">
 
-💻 Languages
+### 🎬 Movie Collection API
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js&theme=dark" />
-</p>🌐 Frontend
+**Movie Collection REST API**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap&theme=dark" />
-</p>⚙️ Backend & Database
+A simple REST API focused on structured movie data management and CRUD operations.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql&theme=dark" />
-</p>🔧 Tools & Platforms
+**Stack**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render&theme=dark" />
-</p>---
+`Python` `REST API`
 
-🚀 Featured Projects
+<br>
 
-<table>
-<tr><td width="50%" valign="top">🚚 Swift Logistics
+<a href="https://github.com/Khalid635/Movie-Collection-API">Repository →</a>
 
-Full-stack parcel booking and tracking platform.
+</td>
 
-Built with
+<td width="50%" valign="top">
 
-"React" "FastAPI" "PostgreSQL" "JWT"
+### 🍸 CocktailHub
 
-Features
+**Modern Cocktail E-Commerce Application**
 
-- 🔐 Authentication
-- 📦 Parcel management
-- 🔎 Public tracking
-- 👨‍💼 Admin approval
-- 🔄 REST API
-- 🗄️ Database integration
+A responsive web application with product browsing and shopping workflow.
 
-<a href="https://github.com/Khalid635/swift-logistics-frontend">Frontend</a> ·
-<a href="https://github.com/Khalid635/swift-logistics-backend">Backend</a> ·
-<a href="https://swift-logistics-frontend.vercel.app/">Live Demo</a>
+**Features**
 
-</td><td width="50%" valign="top">💰 Expense Tracker API
+* 🔎 Product search
+* 🛍️ Product browsing
+* 🛒 Cart management
+* 💳 Checkout flow
+* 📦 Order confirmation
 
-REST API for managing personal expenses and transactions.
+**Stack**
 
-Built with
+`HTML` `CSS` `JavaScript` `Bootstrap`
 
-"Python" "FastAPI" "SQLAlchemy" "PostgreSQL"
+<br>
 
-Features
+<a href="https://github.com/Khalid635/cocktailhub">Repository →</a>
 
-- 🔐 JWT authentication
-- 💵 Expense management
-- 🏷️ Categories
-- 🔎 Filtering
-- 📅 Date-based queries
-- 🗄️ Database integration
+</td>
+</tr>
+</table>
 
-<a href="https://github.com/Khalid635/expense-tracker-api">View Repository →</a>
+---
 
-</td></tr><tr><td width="50%" valign="top">🍸 CocktailHub
+# 🤖 AI / ML Journey
 
-Responsive cocktail e-commerce application.
+My software development path is expanding into **Artificial Intelligence and Machine Learning**.
 
-Built with
+I’m building my foundation across:
 
-"HTML" "CSS" "JavaScript" "Bootstrap"
+```text
+Python
+   ↓
+Mathematics & Statistics
+   ↓
+Data Analysis
+   ↓
+Machine Learning
+   ↓
+Deep Learning
+   ↓
+AI Applications
+   ↓
+Production-Oriented AI Systems
+```
 
-Features
+### Current Learning Track
 
-- 🛍️ Product browsing
-- 🔎 Search
-- 🛒 Shopping cart
-- 💳 Checkout flow
-- 📦 Order confirmation
+**Phitron — AI/ML Batch 3**
 
-<a href="https://github.com/Khalid635/cocktailhub">View Repository →</a>
+The goal is to build a strong foundation in AI/ML while continuing to improve my software engineering and problem-solving skills.
 
-</td><td width="50%" valign="top">🎬 Movie Collection API
+This section is intentionally structured around the **skills and projects I build**, rather than a temporary course-progress label.
 
-REST API for managing movie collections.
+---
 
-Built with
+# 🧠 Problem Solving & DSA
 
-"Python" "REST API"
+I practice **Data Structures & Algorithms** to improve algorithmic thinking, code efficiency, and problem-solving ability.
 
-Features
+### Focus Areas
 
-- 🎬 Movie management
-- ➕ Create
-- ✏️ Update
-- 🗑️ Delete
-- 🔎 Data retrieval
+`Arrays` · `Strings` · `Linked Lists` · `Stacks` · `Queues`
 
-<a href="https://github.com/Khalid635/Movie-Collection-API">View Repository →</a>
+`Searching` · `Sorting` · `Recursion` · `Trees` · `Graphs`
 
-</td></tr>
-</table>---
-
-🧠 Problem Solving
+`Algorithms` · `Complexity Analysis` · `Competitive Programming`
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Structures-Learning-2563EB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Algorithms-Learning-7C3AED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Problem%20Solving-Practicing-059669?style=for-the-badge"/>
-</p>I regularly practice programming problems to improve:
-
-Logic
-  ↓
-Problem Analysis
-  ↓
-Algorithm Selection
-  ↓
-Implementation
-  ↓
-Optimization
+  <a href="https://codeforces.com/">
+    <img src="https://img.shields.io/badge/Codeforces-Practice-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-📚 Currently Learning
+# 📚 Learning Philosophy
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,git,cpp&theme=dark" />
-</p>Data Structures & Algorithms
-          ↓
-Problem Solving
-          ↓
-Backend Development
-          ↓
-REST API Design
-          ↓
-Database & Authentication
-          ↓
-Full-Stack Development
+```text
+Learn
+  ↓
+Build
+  ↓
+Break
+  ↓
+Debug
+  ↓
+Understand
+  ↓
+Improve
+  ↓
+Build Again
+```
 
----
-
-🎓 Education
-
-Presidency University
-
-B.Sc. in Computer Science & Engineering
-
-"2025 — 2029"
+I care about understanding **why something works**, not just making the code run.
 
 ---
 
-📜 Certification
+# 🎓 Education
 
-Phitron
+### Presidency University
 
-Certificate of Recognition
+**B.Sc. in Computer Science & Engineering**
+
+`2025 — 2029`
+
+---
+
+# 📜 Certifications & Learning
+
+### Phitron
+
+**Certificate of Recognition**
 
 Completed coursework covering programming fundamentals, C/C++, Data Structures and Algorithms.
 
+### AI/ML Training
+
+**Phitron — AI/ML Batch 3**
+
+Focused on building a structured foundation in Artificial Intelligence and Machine Learning.
+
 ---
 
-🎯 2026 Goals
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Khalid635&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khalid635&layout=compact&hide_border=true&theme=transparent"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Khalid635&hide_border=true&theme=transparent"
+    width="60%"
+  />
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Khalid635&bg_color=00000000&color=2563EB&line=2563EB&point=7C3AED&area=true&hide_border=true"
+    width="96%"
+  />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
+    alt="GitHub contribution snake"
+  />
+</p>
+
+---
+
+# 🎯 What I'm Building Toward
 
 <table>
 <tr>
-<td>🧠</td>
-<td><b>Master DSA</b><br/>Become stronger at algorithmic problem solving.</td>
-</tr><tr>
-<td>⚙️</td>
-<td><b>Improve Backend Skills</b><br/>Build better APIs, authentication systems and database-driven applications.</td>
-</tr><tr>
-<td>🌐</td>
-<td><b>Build Full-Stack Projects</b><br/>Create more complete applications with real-world workflows.</td>
-</tr><tr>
-<td>🚀</td>
-<td><b>Improve Engineering Practices</b><br/>Write cleaner code and maintain better GitHub repositories.</td>
+<td align="center" width="25%">
+
+### 🧠
+
+**Problem Solver**
+
+Strong DSA & algorithmic thinking
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️
+
+**Software Developer**
+
+Clean and practical applications
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+
+**AI/ML Builder**
+
+Machine learning & intelligent applications
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌐
+
+**Full-Stack Engineer**
+
+Frontend + backend + database
+
+</td>
 </tr>
-</table>---
+</table>
 
-📊 GitHub Analytics
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khalid635&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khalid635&layout=compact&hide_border=true&theme=transparent" height="180"/>
-</p><p align="center">
-  <img src="https://streak-stats.demolab.com?user=Khalid635&hide_border=true&theme=transparent" width="60%"/>
-</p>---
-
-🐍 Contribution Activity
+# 🌐 Find Me Online
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
-</p>---
 
-📈 Contribution Graph
+<a href="https://khalidbinmasud-portfolio.netlify.app/">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-2563EB?style=for-the-badge" />
+</a>
+
+<a href="https://www.linkedin.com/in/khalid-bin-masud-817a913b9/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/Khalid635">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://codeforces.com/">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
+
+</p>
+
+---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khalid635&bg_color=00000000&color=2563EB&line=2563EB&point=7C3AED&area=true&hide_border=true" width="95%"/>
-</p>---
-
-🤝 Let's Connect
-
-<p align="center"><a href="https://www.linkedin.com/in/khalid-bin-masud-817a913b9/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a><a href="https://khalidbinmasud-portfolio.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a><a href="https://github.com/Khalid635">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a></p>---
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:0F172A,100:020617&height=120&section=footer" width="100%"/>
+</p>
 
 <p align="center">
-  <b>Building. Learning. Improving.</b>
-</p><p align="center">
-  <sub>One commit at a time.</sub>
+  <b>Build with purpose. Learn continuously. Keep improving.</b>
 </p>
