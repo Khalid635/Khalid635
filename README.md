@@ -12,7 +12,7 @@
 | **SaveClip** | Video downloader web app — React, FastAPI, yt-dlp | [Live Demo](https://saveclip-green.vercel.app/) · [Repo](https://github.com/Khalid635/saveclip) |
 | **Expense Tracker API** | REST API for personal finance with JWT auth — FastAPI, Pydantic, SQLAlchemy | [Repo](https://github.com/Khalid635/expense-tracker-api) |
 
-## Lets connect
+## Let's connect
 
 - **LinkedIn:** https://www.linkedin.com/in/khalid-bin-masud-817a913b9/
 - **GitHub:** https://github.com/Khalid635
